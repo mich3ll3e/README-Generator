@@ -15,7 +15,7 @@ package.json files;
 As a developer, I want to easily develop a good README file for my project, I want to make sure I don't miss any content. 
 
 ## Screenshot
-![Screenshot](Assets/Screen Shot 2021-01-25 at 3.53.13 PM.png)
+![Screenshot](Assets/README.jpeg)
 
 ## Instruction Video 
 
