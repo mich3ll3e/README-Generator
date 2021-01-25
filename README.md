@@ -5,10 +5,10 @@ This is a README Generator Application, it allows developers to easily create a 
 
 Formatting of this generator is based on the attached file (Assets/AGOODREADME.md)
 
-This repository contains the generator: [index](https://github.com/mich3ll3e/index.js)
+This repository contains the generator: https://github.com/mich3ll3e/index.js
 directory;
 package.json files;
-[SampleREADME](https://github.com/mich3ll3e/README-Generator/SampleREADME.md)
+SampleREADME
 
 
 #User Story
